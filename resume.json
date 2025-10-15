@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Yuwenqian Chen",
+    "phone": "347-495-4890",
+    "email": "yuwenqianchen@gmail.com",
+    "linkedin": "linkedin.com/in/yuwenqian-chen",
+    "github": "github.com/lenzlaww",
+    "status": "Open to relocation | Permanent Resident"
+  },
+  "education": [
+    {
+      "role": "Stony Brook University",
+      "dates": "January 2024 - December 2025",
+      "company": "M.S. in Computer Science | GPA-3.63",
+      "location": "Stony Brook, NY"
+    },
+    {
+      "role": "Stony Brook University",
+      "dates": "August 2020 - December 2023",
+      "company": "B.S. in Computer Science and Applied Mathematics & Statistics | GPA-3.53 | Dean’s List",
+      "location": "Stony Brook, NY"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI/MLE Intern",
+      "dates": "June 2025 -- Present",
+      "company": "DeepChatBI",
+      "location": "Remote",
+      "bullets": [
+        "Increased accuracy of LLM-generated chart content by 90% by developing a controller module that validates and refines outputs from VisualizeAgent.",
+        "Accelerated insight generation for analytics users by building VisualizeAgent, enabling SQL outputs to be visualized in 10+ interactive chart types (line, bar, pie, scatter, etc.).",
+        "Cut token usage by 50% and reduced latency in analytical workflows by implementing a streaming architecture with Anthropic Messages API, enabling real-time multi-step reasoning and dynamic tool orchestration for LLM-driven analytics.",
+        "Built a metric system enabling enterprises to define atomic metrics once, allowing zero-code access for business teams and reducing analytics response time from days to minutes, thereby improving LLM-driven BI accuracy and efficiency."
+      ]
+    },
+    {
+      "role": "Software Engineering Intern",
+      "dates": "February 2024 -- June 2024",
+      "company": "GroupClock Inc.",
+      "location": "NY",
+      "bullets": [
+        "Engineered an iOS app using SwiftUI + AVFoundation to securely capture facial data, ensuring reliable transmission for downstream ML processing.",
+        "Designed and integrated RESTful API endpoints to transmit biometric data to machine learning pipelines, facilitating real-time model input.",
+        "Deployed the app to 20+ beta users via TestFlight and improved load time by 30% through 4 rounds of UX iteration.",
+        "Built a MERN stack web dashboard to manage user data, streamlining operational oversight and data consistency."
+      ]
+    },
+    {
+      "role": "Teaching Assistant",
+      "dates": "Fall 2022, Fall 2024",
+      "company": "Undergraduate & Graduate CS Courses",
+      "location": "Stony Brook, NY",
+      "bullets": [
+        "Facilitated learning for 100+ students in CS courses by mentoring, grading, and conducting review sessions, enhancing average exam scores around 12%."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "GNNs for Molecular Dynamics Simulations",
+      "dates": "May 2025 - Present",
+      "bullets": [
+        "Collaborated on developing Graph Neural Networks implicit solvent models(eg. DimeNet, MACE) for acid molecular dynamics simulations.",
+        "Fine-tuned DimeNet, achieving an 80% reduction in prediction loss (0.6 → 0.12) on the test set."
+      ]
+    },
+    {
+      "title": "The Interpretation of Vanity License Plates",
+      "dates": "September 2024",
+      "bullets": [
+        "Fine-tuned a LLaMA3-7B model using LoRA on a large-scale vanity license plate dataset (150K+ records from CA and NY), applying NLP techniques for semantic understanding and classification.",
+        "Achieved 71% accuracy in predicting plate approval, significantly outperforming traditional lexicon-based heuristics.",
+        "Demonstrated potential to reduce manual plate screening workload by around 30%, based on comparative inference speed and human processing benchmarks."
+      ]
+    },
+    {
+      "title": "Health Monitoring System",
+      "dates": "September 2023",
+      "bullets": [
+        "Enabled 30+ post-operative patients to automatically share mobility metrics (e.g., walking speed, step length) with clinicians by developing a iOS app using HealthKit, resulting in a 60% reduction in manual data collection time.",
+        "Designed a full pipeline from iPhone-based data collection to Excel-based clinician dashboards, enabling better medical insights and decision-making.",
+        "Collaborated in a team of three to align mobile health technology with clinical workflows using Swift, RESTful APIs, and Node.js backend."
+      ]
+    }
+  ],
+  "extraProjects":[
+    {
+      "title": "RL Agent for Mahjong",
+      "dates": "May 2025",
+      "bullets": [
+        "Built a Mahjong-playing agent using Reinforcement Learning (PPO) with enhancements via custom immediate rewards, curriculum learning, and a supervised discard model trained on high-level Tenhou games.",
+        "Outperformed baseline agents with a 55.6% improvement in average rank (2.57 → 1.13) and a 19.6% increase in average score (25,045 → 29,943), validated through ablation studies and self-play."
+      ]
+    },
+    {
+      "title": "Handwritten Symbol Recognition (MathKey)",
+      "dates": "September 2024",
+      "bullets": [
+        "Designed and trained a custom CNN model on 200k samples from the Detexify dataset, converting stroke data into images for input.",
+        "Achieved 95.89% Top-3 accuracy, enabling fast and accurate conversion of handwritten symbols into text, images, and LaTeX formats."
+      ]
+    },
+    {
+      "title": "CICAidA Healthcare Monitoring System",
+      "dates": "January 2023",
+      "bullets": [
+        "Implemented a Firestore-based backend system to store and manage real-time heart rate and oxygen data, enabling timely alerts and improved healthcare provider response.",
+        "Contributed to a cross-functional team to design and deliver a centralized patient monitoring system, culminating in a well-received poster presentation that showcased system effectiveness."
+      ]
+    }
+  ],
+  "skills": {
+    "Programming": [
+      "Swift",
+      "Python",
+      "Java",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "TypeScript",
+      "MIPS",
+      "R",
+      "MATLAB",
+      "LaTeX"
+    ],
+    "Frameworks": [
+      "LLM (OpenAI",
+      "Claude",
+      "LLama)",
+      "Huggingface",
+      "OpenCV",
+      "PyTorch",
+      "Tensorflow",
+      "Matplotlib",
+      "Numpy",
+      "Pandas",
+      "Spring Boot"
+    ],
+    "Database": [
+      "MongoDB",
+      "MySQL",
+      "Firebase"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Yuwenqian Chen",
+    "phone": "347-495-4890",
+    "email": "yuwenqianchen@gmail.com",
+    "linkedin": "linkedin.com/in/yuwenqian-chen",
+    "github": "github.com/lenzlaww",
+    "status": "Open to relocation | Permanent Resident"
+  },
+  "education": [
+    {
+      "role": "Stony Brook University",
+      "dates": "January 2024 - December 2025",
+      "company": "M.S. in Computer Science | GPA-3.63",
+      "location": "Stony Brook, NY"
+    },
+    {
+      "role": "Stony Brook University",
+      "dates": "August 2020 - December 2023",
+      "company": "B.S. in Computer Science and Applied Mathematics & Statistics | GPA-3.53 | Dean’s List",
+      "location": "Stony Brook, NY"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full-Stack / AI Engineering Intern",
+      "dates": "June 2025 -- Present",
+      "company": "DeepChatBI",
+      "location": "Remote",
+      "bullets": [
+        "Accelerated insight generation for analytics users by building VisualizeAgent, enabling SQL outputs to be visualized in 10+ interactive chart types (line, bar, pie, scatter, etc.).",
+        "Improved referral-like ingestion throughput by 60% via asynchronous task scheduling and schema validation across multiple data sources.",
+        "Reduced query latency 50% using a streaming architecture built with Anthropic Messages API for real-time multi-step reasoning and tool orchestration.",
+        "Enhanced data reliability and compliance by implementing schema validation and error-handling middleware across backend services, supporting scalable integrations with external systems."
+      ]
+    },
+    {
+      "role": "Software Engineering Intern",
+      "dates": "February 2024 -- June 2024",
+      "company": "GroupClock Inc.",
+      "location": "NY",
+      "bullets": [
+        "Developed full-stack infrastructure for biometric scheduling and tracking using SwiftUI, Node.js, and MongoDB, ensuring secure data flow between clients and backend services.",
+        "Implemented REST APIs for data ingestion and synchronization with partner systems, reducing manual intervention by 40%.",
+        "Led 4 iterations of UX optimization that improved booking-flow responsiveness and load time by 30%, deployed to 20+ beta users via TestFlight.",
+        "Collaborated with cross-functional teams to deliver compliant data handling aligned with healthcare privacy standards."
+      ]
+    },
+    {
+      "role": "Teaching Assistant",
+      "dates": "Fall 2022, Fall 2024",
+      "company": "Undergraduate & Graduate CS Courses",
+      "location": "Stony Brook, NY",
+      "bullets": [
+        "Mentored 100+ students through coding labs and review sessions, improving course exam averages by 12% and supporting scalable academic workflows."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "CICAidA Healthcare Monitoring Platform",
+      "dates": "January 2023",
+      "bullets": [
+        "Built a full-stack patient monitoring system integrating Firebase (backend), Swift (mobile), and REST APIs for real-time health data sharing between patients and clinicians.",
+        "Reduced manual tracking time by 60% and improved data reliability with automated ingestion and alert systems.",
+        "Presented system outcomes demonstrating scalable patient-provider connectivity for remote care and follow-up."
+      ]
+    },
+    {
+      "title": "Health Monitoring System",
+      "dates": "September 2023",
+      "bullets": [
+        "Developed an iOS app (HealthKit + Swift) to collect postoperative mobility data and securely sync to clinician dashboards, streamlining care management for 30+ patients.",
+        "Implemented API integration with a Node.js backend for data aggregation and visualization, achieving 60% faster decision-making by clinicians.",
+        "Aligned architecture with HIPAA-style data-sharing principles and healthcare interoperability standards."
+      ]
+    },
+    {
+      "title": "Handwritten Symbol Recognition (MathKey)",
+      "dates": "September 2024",
+      "bullets": [
+        "Trained a CNN model on 200K+ handwriting samples for accurate symbol classification and data ingestion.",
+        "Achieved 95.9% Top-3 accuracy, demonstrating scalable ML model deployment for accessible input and learning tools."
+      ]
+    }
+  ],
+  "skills": {
+    "Programming": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Swift",
+      "Java",
+      "C++",
+      "HTML/CSS",
+      "R",
+      "MATLAB"
+    ],
+    "Frameworks": [
+      "Flask",
+      "React",
+      "Node.js",
+      "PyTorch",
+      "TensorFlow",
+      "OpenAI/Claude API",
+      "Pandas",
+      "Numpy"
+    ],
+    "Database": ["MySQL", "MongoDB", "Firebase"]
+  }
+}
