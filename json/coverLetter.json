@@ -1,0 +1,28 @@
+{
+  "applicant": {
+    "name": "Yuwenqian Chen",
+    "email": "yuwenqianchen@gmail.com",
+    "phone": "347-495-4890",
+    "linkedin": "https://linkedin.com/in/yuwenqian-chen",
+    "github": "https://github.com/lenzlaww"
+  },
+  "document": {
+    "type": "Cover Letter",
+    "date": "November 9, 2025",
+    "recipient": {
+      "title": "Hiring Manager",
+      "company": "Equilibrium Energy",
+      "position": "Software Engineer"
+    },
+    "body": [
+      "I’m excited to apply for the Software Engineer position at Equilibrium Energy, where I can help build the digital foundation for the clean energy transition. Your mission to combine deep energy expertise with modern software resonates strongly with my passion for creating scalable, data-driven systems that make real-world impact.",
+      "At DeepChatBI, I helped build an LLM-powered analytics platform from the ground up. By introducing a streaming architecture based on the Anthropic Messages API, I reduced token usage by 50% and cut analytical latency by 30% —delivering faster, more efficient insights. I also developed a controller module for the Visualization Agent that automatically validated and corrected LLM-generated charts, improving reliability by 90%. These experiences strengthened my expertise in backend scalability (Java + Spring Boot + SQL) and real-time data processing.",
+      "Previously, at GroupClock Inc., I designed and deployed a iOS app that securely collected and transmitted biometric data for downstream ML models. By optimizing RESTful APIs and integrating with real-time pipelines, I improved load time by 30% and ensured secure data handling. This experience deepened my appreciation for combining precision engineering with user-centric design—values I see reflected in Equilibrium’s approach to energy systems.",
+      "I’m eager to bring my background in scalable architectures, AI-driven analytics, and mission-focused engineering to your team. I’d love to contribute to Equilibrium’s vision of building intelligent infrastructure that accelerates global decarbonization and transforms how energy is managed and optimized."
+    ],
+    "closing": {
+      "signature": "Sincerely",
+      "name": "Yuwenqian Chen"
+    }
+  }
+}

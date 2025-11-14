@@ -1,0 +1,28 @@
+{
+  "applicant": {
+    "name": "Yuwenqian Chen",
+    "email": "yuwenqianchen@gmail.com",
+    "phone": "347-495-4890",
+    "linkedin": "https://linkedin.com/in/yuwenqian-chen",
+    "github": "https://github.com/lenzlaww"
+  },
+  "document": {
+    "type": "Cover Letter",
+    "date": "November 9, 2025",
+    "recipient": {
+      "title": "Hiring Manager",
+      "company": "To be specified",
+      "position": "Software Engineer"
+    },
+    "body": [
+      "I’m genuinely excited to apply for the Software Engineer position at your company. I’m passionate about designing systems that are both intelligent and efficient—and I’m eager to bring that same drive for performance and reliability to your engineering team.",
+      "At DeepChatBI, I helped build the company’s LLM-powered analytics platform from the ground up. By introducing a streaming architecture based on the Anthropic Messages API, I reduced token usage by 50% and significantly lowered latency across analytical workflows. I also developed a controller module for the Visualization Agent that automatically validated and corrected LLM-generated charts—boosting output accuracy by 90%. These projects strengthened my expertise in backend scalability (Java + Spring Boot + SQL) and production reliability.",
+      "Earlier, at GroupClock Inc., I developed and deployed a iOS app that securely captured facial data for downstream ML pipelines. I optimized RESTful APIs, improved load time by 30%, and delivered a seamless user experience for 20+ beta testers. The experience deepened my appreciation for building fast, reliable, and user-centric systems end-to-end.",
+      "I’m excited to bring that same mindset—combining strong engineering fundamentals with a focus on measurable impact—to your team. I’d love the opportunity to discuss how my experience with scalable architectures and real-time AI systems can contribute to your mission."
+    ],
+    "closing": {
+      "signature": "Sincerely",
+      "name": "Yuwenqian Chen"
+    }
+  }
+}
